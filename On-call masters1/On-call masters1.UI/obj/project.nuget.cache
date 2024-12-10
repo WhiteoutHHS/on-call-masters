@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V/EM2aq1BCQ=",
+  "dgSpecHash": "ZdpymwhYh1A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters1.Core\\On-call masters1.Core.csproj",
+  "projectFilePath": "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters1.UI\\On-call masters1.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bosni\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\bosni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters1.Core\\On-call masters1.Core.csproj": {}
+    "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters.BLL\\On-call masters1.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters1.Core\\On-call masters1.Core.csproj": {
+    "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters.BLL\\On-call masters1.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters1.Core\\On-call masters1.Core.csproj",
-        "projectName": "On-call masters1.Core",
-        "projectPath": "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters1.Core\\On-call masters1.Core.csproj",
+        "projectUniqueName": "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters.BLL\\On-call masters1.BLL.csproj",
+        "projectName": "On-call masters1.BLL",
+        "projectPath": "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters.BLL\\On-call masters1.BLL.csproj",
         "packagesPath": "C:\\Users\\bosni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters1.Core\\obj\\",
+        "outputPath": "C:\\Users\\bosni\\source\\repos\\On-call masters1\\On-call masters.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bosni\\AppData\\Roaming\\NuGet\\NuGet.Config",
